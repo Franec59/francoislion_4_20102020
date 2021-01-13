@@ -825,6 +825,26 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+/*Modification suite analyse SEO*/
+
+#bloc-8 ul{
+    list-style-type: none;
+}
+
+.citation{
+    font-size: 2rem;
+    font-style: italic;
+}
+.citation-auteur{
+    font-size: 1.5rem;
+}
+
+.textecontenu{
+    font-size: 2.3rem;
+}
+    
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
