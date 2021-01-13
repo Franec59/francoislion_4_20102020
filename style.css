@@ -700,8 +700,11 @@ p {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    /*max-width: 400px;*/
+    /*margin: auto auto auto auto;*/
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+
 }
 
 h2 {
@@ -842,9 +845,14 @@ h4 {
 .textecontenu{
     font-size: 2.3rem;
 }
+
+.titrelist{
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-left: 4rem;
+}
+
     
-
-
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
