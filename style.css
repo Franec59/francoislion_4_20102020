@@ -830,7 +830,7 @@ h4 {
 
 /*Modification suite analyse SEO*/
 
-#bloc-8 ul{
+.listesans{
     list-style-type: none;
 }
 
@@ -852,7 +852,6 @@ h4 {
     margin-left: 4rem;
 }
 
-    
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
